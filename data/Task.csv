@@ -1,3 +1,4 @@
+Id,Long Name,Fixed Duration Sec,Module,Transition State,Breaks Calendar,Is Optional,Unperformed Penalty Cost,super module,super 2 module
 T1973,Tsk 1973 M606-T1,9145,Mod606,Mod334,Lunch break,1,10000,Mod576,Mod334
 T2184,Tsk 2184 M468-T3,2518,Mod468,Mod406,Lunch break,1,10000,Mod466,Mod406
 T2280,Tsk 2280 M946-T1,6775,Mod946,Mod334,Lunch break,1,10000,Mod846,Mod334

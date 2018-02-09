@@ -1,3 +1,4 @@
+Id,Long Name,Parent Module,Setup Time,Setup Cost
 Mod334,Project Aircraft 35,,0,0
 Mod335,Ventilation/AC,Mod334,0,10
 Mod336,Ventilation/AC 336,Mod335,0,0
@@ -173,7 +174,6 @@ Mod516,Fuel 516,Mod406,0,0
 Mod518,Fuel 518,Mod406,0,0
 Mod519,Fuel 519,Mod406,0,0
 Mod520,Fuel 520,Mod406,0,0
-Mod521,Fuel 521,Mod406,0,0
 Mod522,Wings tests,Mod334,0,10
 Mod523,Wings tests 523,Mod522,0,0
 Mod524,Wings tests 524,Mod523,0,0
