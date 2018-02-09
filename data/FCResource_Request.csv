@@ -1,3 +1,4 @@
+Task,Finite Capacity Resource,Quantity,Is Released At End
 T350,FC106,1,TRUE
 T367,FC113,1,TRUE
 T449,FC113,1,TRUE
